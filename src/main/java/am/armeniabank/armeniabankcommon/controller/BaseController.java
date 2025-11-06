@@ -1,6 +1,6 @@
 package am.armeniabank.armeniabankcommon.controller;
 
-import am.armeniabank.armeniabankcommon.dto.ListResponse;
+import am.armeniabank.armeniabankcommon.response.ListResponse;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

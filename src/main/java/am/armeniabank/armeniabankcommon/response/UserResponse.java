@@ -1,4 +1,4 @@
-package am.armeniabank.armeniabankcommon.dto;
+package am.armeniabank.armeniabankcommon.response;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.AllArgsConstructor;
