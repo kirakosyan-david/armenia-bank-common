@@ -10,8 +10,8 @@ public class ApiConstants {
 
     // Auth Service Url
     public static final String AUTH_SERVICE_URL = "/api/users";
-    public static final String AUTH_SERVICE_REGISTER_URL = AUTH_SERVICE_URL + "/register";
-    public static final String AUTH_SERVICE_LOGIN_URL = AUTH_SERVICE_URL + "/login";
+    public static final String AUTH_SERVICE_REGISTER_URL = "/api/register";
+    public static final String AUTH_SERVICE_LOGIN_URL = "/api/login";
     public static final String AUTH_SERVICE_LOGOUT_URL = AUTH_SERVICE_URL + "/logout";
     public static final String AUTH_SERVICE_REFRESH_URL = AUTH_SERVICE_URL + "/refresh";
     public static final String AUTH_SERVICE_SEARCH_URL = AUTH_SERVICE_URL + "/search";
